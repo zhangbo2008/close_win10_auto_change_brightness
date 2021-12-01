@@ -1,0 +1,1 @@
+# close_win10_auto_change_brightness
